@@ -16,7 +16,7 @@ using namespace std;
 #define vd vector<ld>
 #define vf vector<float>
 #define vpl vector<pl>
-#define vpl vector<pd>
+#define vpd vector<pd>
 
 
 #define rep(i, a, b) for (ll i = a; i < b; ++i)
